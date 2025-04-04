@@ -8,7 +8,7 @@ const chalk = require('chalk')
 if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 
-global.SESSION_ID = process.env.SESSION_ID || 'Bellah~m2xDSJAS#cXaReUMFXZBxDu0kZ8ck_cgjIEBgC2_-AUY-3go8qwM' 
+global.SESSION_ID = process.env.SESSION_ID || 'Bellah~6ioDUBQD#C-6_LlfAEdLUQs6KWepGZzeX1RLFL_aeP-OwAc4kwg8' 
 //owmner v card
 global.ytname = "YT: GIDDYTENNOR" //ur yt chanel name
 global.socialm = "IG: @GIDDYTENNOR" //ur github or insta name
@@ -16,7 +16,7 @@ global.location = "Kenya" //ur location
 
 //new
 global.botname = process.env.BOT_NAME ||'𝐁𝐞𝐥𝐥𝐚𝐡 𝐗𝐦𝐝' //enter your  bot name here
-global.ownernumber = process.env.OWNER_NUMBER ||'254104245659' //ur owner number
+global.ownernumber = process.env.OWNER_NUMBER ||'254740873466' //ur owner number
 global.ownername = '© TENNOMODZ' //ur owner name
 global.websitex = "https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D" //"https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES"
 global.wagc = "https://chat.whatsapp.com/CzFlFQrkdzxFw0pxCBYM7H" //"https://chat.whatsapp.com/JmsgzJllAAB8zHfQcJXxES"
@@ -39,7 +39,7 @@ global.adminevent = true //show promote/demote message
 global.groupevent = true //show update messages in group chat
 //msg
 global.autorecording = process.env.AUTO_RECORDING || 'false'
-global.autotyping = process.env.AUTO_TYPING || 'true'
+global.autotyping = process.env.AUTO_TYPING || 'false'
 
 global.mess = {
 	limit: 'Your limit is up <\>',
