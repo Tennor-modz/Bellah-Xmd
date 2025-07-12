@@ -13,7 +13,7 @@
         "code": "node main.js",
         "start": "node index.js"
     },
-    "author": "GiddyTennor",
+    "author": "Mr. Take Tee",
     "license": "MIT",
     "dependencies": {
         "@adiwajshing/baileys": "^5.0.0",
