@@ -94,7 +94,7 @@ Thanks to...
 * [`Tylor `](https://github.com/Dark-Xploit) ***Setting up heroku deployment and Whiskey baiyleys***
 
 
-> Version 3.0.0
+> Version 3.2.0
 
 
 ©𝗩𝗼𝗹𝗧𝗮𝗵 𝗫𝗺𝗱 - 𝗕𝗲𝗹𝗹𝗮𝗵 𝗫𝗺𝗱 𝗩3 2025
