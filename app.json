@@ -11,9 +11,9 @@
   },
   "env": {
     "SESSION_ID": {
-      "description": "Enter your session id",
+      "description": "Bellah~XvInCDyB#3xkyQLraMwcHbsb-NZszuvFibwu9VS65irsgbE4bgQE",
       "value": "",
-      "required": false
+      "required": true
 },
   "BOT_NAME": {
       "description": "Enter bot name of your choice here",
@@ -22,9 +22,9 @@
     },
   "OWNER_NUMBER": {
       "description": "Enter your whatsapp number here",
-      "value": "254104245659",
+      "value": "237695140419",
       "required": true
-  },
+    },
   "PACK_NAME": {
       "description": "Enter your sticker pack name",
       "value": "VolTahXmd",
@@ -35,25 +35,30 @@
       "value": "",
       "required": true
     },
-  "HEROKU_API": {
-      "description": "Put a Heroku api key here, will be required to update vars in your Dm",
-      "required": true
+  "WELCOME": {
+      "description": "Type true if you want your bot to send welcome or goodbye messages in groups or else type fals",
+      "value": "",
+      "required": false
     },
-  
+  "ANTI_CALL": {
+      "description": "Type true if you want bot to reject incoming calls or else type false",
+      "value": "",
+      "required": false
+    },
   "MODE": {
       "description": "Type true if you want bot status mode to be public if else type false",
       "value": "true",
       "required": false
     },
-  "ANTILINK_GC": {
-      "description": "set true if you want bot to delete gc links or else set false",
-      "value": "true",
-      "required": false
+  "ANTIFOREIGN_NUMBER": {
+      "description": "Enter antiforeignnumbers with country codes if you don't want antiforeign numbers",
+      "value": "234,263",
+      "required": false 
     },
   "BOT_PREFIX": {
       "description": "Enter bot prefix of your choice if else leave blank for multiprefixes",
       "value": ".",
-      "required": false
+      "required": true
     },
   "AUTO_TYPING": {
       "description": "type true/false or leave blank",
